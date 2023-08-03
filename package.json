@@ -1,0 +1,27 @@
+{
+  "name": "chatbot",
+  "version": "1.0.0",
+  "description": "A chatbot based on JSON data",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhixdd/ChatBot.git"
+  },
+  "keywords": [
+    "Open",
+    "AI",
+    "chatbot"
+  ],
+  "author": "ABHI",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/abhixdd/ChatBot/issues"
+  },
+  "homepage": "https://github.com/abhixdd/ChatBot#readme",
+  "dependencies": {
+    "readline": "^1.3.0"
+  }
+}
